@@ -21,3 +21,7 @@ KoreaIT
  - mariaDB와 R의 상관관계를 이해할 수 있다
  - heidiSQL을 통해 mariaDB를 GUI로 활용할 수 있다
  
+[ 2022 - 09 - 26 ]
+ - 웹 크롤링 및 스크래핑을 진행할 수 있다
+ - wordcloud 함수를 활용해 시각화를 진행할 수 있다
+ - xml, 통계 등을 수집하여 활용할 
